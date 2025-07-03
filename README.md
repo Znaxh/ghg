@@ -109,5 +109,3 @@ This project is open source and available under the [MIT License](LICENSE).
 For questions or suggestions, please open an issue on GitHub.
 
 ---
-
-**Note**: This application is designed for educational and research purposes. For production use, please ensure proper validation and testing of the model with your specific data.
