@@ -39,7 +39,7 @@ ghg/
 
 2. **Install required dependencies**:
    ```bash
-   pip install streamlit pandas numpy scikit-learn joblib
+   pip install -r requirements.txt
    ```
 
 ## 🏃‍♂️ Usage
